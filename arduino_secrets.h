@@ -1,0 +1,3 @@
+#define SECRET_DEVICE_KEY "@XtlunlhRqOi6riaufGAEYvbP"
+#define SECRET_OPTIONAL_PASS "anas1234"
+#define SECRET_SSID "IOT_CLUB"
